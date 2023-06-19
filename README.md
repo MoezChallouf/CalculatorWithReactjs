@@ -1,3 +1,5 @@
+![image](https://github.com/MoezChallouf/CalculatorWithReactjs/assets/72388621/81a7927d-680f-4999-b84f-1f16246f04f3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
